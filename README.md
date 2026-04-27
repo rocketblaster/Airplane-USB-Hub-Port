@@ -8,7 +8,7 @@
 An airplane shaped USB hub port.
 
 Features
-=
+-
 -
 -
 
