@@ -1,10 +1,18 @@
 # Airplane-USB-Hub-Port
+
+(Zine)
 (render image)
 
 ## Description
+### What is this?
 An airplane shaped USB hub port.
 
-## Why I made this
+Features
+=
+-
+-
+
+### Why I made this
 
 ## Schematic
 
@@ -15,4 +23,4 @@ An airplane shaped USB hub port.
 ## Assembly Usage
 
 ## Miscelleanous
-### Time Taken: 11 hours.
+### Time Taken: 11 hours
