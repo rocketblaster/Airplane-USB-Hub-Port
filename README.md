@@ -26,7 +26,15 @@ The reason why I made this Printed Circuit Board is because I love airplanes and
 
 ## PCB
 
-![PCB](attachments/PCB.png)
+### Front
+
+![Front PCB](attachments/image56.png)
+
+### Back
+
+![Back PCB](attachments/image57.png)
+
+### Back
 
 ## BOM
 
@@ -42,4 +50,4 @@ This PCB uses SMD components. USB connectors are through hole. Other than that a
 
 Inspired by the Fallout USB Hub guide for some parts I needed help with as a reference.
 
-### Time Taken: 15 hours
+### Time Taken: 16 hours
