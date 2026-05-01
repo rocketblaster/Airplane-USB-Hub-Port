@@ -35,8 +35,6 @@ The reason why I made this Printed Circuit Board is because I love airplanes and
 
 ![Back PCB](attachments/image57.png)
 
-### Back
-
 ## BOM
 
 ## Assembly 
