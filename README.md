@@ -1,8 +1,10 @@
 # Airplane-USB-Hub-Port
 
-(Zine)
+![zine](attachments/zine.png)
+
 ## 3D Render
-![3D render](attachments/image58.png)
+![3D render](attachments/render.png)
+![case](attachmehnts/case.png)
 
 ## Description
 ### What is this?
@@ -17,9 +19,10 @@ Features
 - 2x Downstream port USB-A
 - Integrated chip
 - My own art!
+- An enclosure
 
 ### Why I made this
-The reason why I made this Printed Circuit Board is because I love airplanes and i was inspired when I was googling cute cool aesthetic shaped USB hub ports. There were so many options. I wanted to go for an easier one but challenge is good!
+The reason why I made this Printed Circuit Board is because I love airplanes and I was inspired when I was googling cute cool aesthetic shaped USB hub ports. There were so many options. I wanted to go for an easier one but challenge is good!
 
 ## Schematic
 
@@ -48,5 +51,3 @@ This PCB uses SMD components. USB connectors are through hole. Other than that a
 ## Miscelleanous
 
 Inspired by the Fallout USB Hub guide for some parts I needed help with as a reference.
-
-### Time Taken: 16 hours
