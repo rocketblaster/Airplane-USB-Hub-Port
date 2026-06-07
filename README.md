@@ -4,7 +4,7 @@
 
 ## 3D Render
 ![3D render](attachments/render.png)
-![case](attachmehnts/case.png)
+![case](attachments/case.png)
 
 ## Description
 ### What is this?
