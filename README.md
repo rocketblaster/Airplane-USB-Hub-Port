@@ -6,6 +6,9 @@
 ![3D render](attachments/render.png)
 ![case](attachments/case.png)
 
+## 3D Preview
+![3D](attachments/3d.png)
+
 ## Description
 ### What is this?
 This is an airplane jetliner shaped USB hub port with the usb connectors as the engines. When you plug in the USB connectors, it makes a trail like shape. On the top layer it has text with my name on it, and the bottom layer contains my own art, name and link to GitHub!
