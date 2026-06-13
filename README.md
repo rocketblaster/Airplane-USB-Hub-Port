@@ -28,7 +28,7 @@ Features
 - An enclosure
 
 ### Why I made this
-The reason why I made this Printed Circuit Board is because I love airplanes and I was inspired when I was googling cute cool aesthetic shaped USB hub ports. There were so many options. I wanted to go for an easier one but challenge is good!
+The reason why I made this Printed Circuit Board is because I love airplanes and I was inspired when I was googling cute cool aesthetic shaped USB hub ports. There were so many options. I wanted to go for an easier one but challenge is good! I also think having a USB hub is helpful because most of the devices I have nowadays have little USB ports.
 
 ## Schematic
 
@@ -50,7 +50,7 @@ BOM located in production folder. Includes PCB itself and components from LCSC.
 
 ## Assembly 
 
-This PCB uses SMD components. USB connectors are through hole. Other than that a small soldering iron is recommended to solder on the resistors, capacitors and integrated chip.
+This PCB uses SMD components. USB connectors are through hole. Other than that a small soldering iron is recommended to solder on the resistors, capacitors and integrated chip. A hotplate would be easier though. Once everything is on I would put in the case to protect it. Maybe add some heat inserts?
 
 ### Usage
 
