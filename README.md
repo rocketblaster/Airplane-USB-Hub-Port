@@ -6,6 +6,9 @@
 ![3D render](attachments/render.png)
 ![case](attachments/case.png)
 
+## Case Preview
+[Case](https://cad.onshape.com/documents/f1b113e472f4eae8207860ed/w/1eeea853c7f18079a78e768a/e/3175c2ab31f8683a237df51d)
+
 ## 3D Preview
 ![3D](attachments/3d.png)
 
@@ -43,9 +46,11 @@ The reason why I made this Printed Circuit Board is because I love airplanes and
 
 ## BOM
 
+BOM located in production folder. Includes PCB itself and components from LCSC.
+
 ## Assembly 
 
-This PCB uses SMD components. USB connectors are through hole. Other than that a small soldering iron is recommended to solder on the resistors, capciators and integrated chip.
+This PCB uses SMD components. USB connectors are through hole. Other than that a small soldering iron is recommended to solder on the resistors, capacitors and integrated chip.
 
 ### Usage
 
