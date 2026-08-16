@@ -1,8 +1,10 @@
-Name,Quantity,Unit Price,Total Price,Link
-PCB,5,N/A,$4.00,https://cart.jlcpcb.com/quote?fileId=985f5a13d74946d28ff0a9efafac5cbe&uuid=cbd091e0032144ebb143756d61130165&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro
+Name,Quantity (MOQ),Unit Price,Total Price,Link
+PCB,5,N/A,$6.60,https://cart.jlcpcb.com/quote?fileId=7ec2593f8d7d409a971df2670184c648&uuid=88c0f9dfb7eb498ebf3468b58311c5fe&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro
 1uF,50,$0.02,$9.20,https://www.lcsc.com/product-detail/C5199872.html
 100nF,100,$0.01,$1.03,https://www.lcsc.com/product-detail/C1591.html
 5.1k,100,$0.00,$0.16,https://www.lcsc.com/product-detail/C2907044.html
 SL2.1s,5,$0.23,$1.27,https://www.lcsc.com/product-detail/USB-ICs_CoreChips-SL2-1s_C2684433.html
 USB-C,20,$0.07,$1.41,https://www.lcsc.com/product-detail/C2765186.html
 USB-A,10,$0.07,$0.64,https://www.lcsc.com/product-detail/C668591.html
+ESD Protection Diode,10,$0.04,$0.45,https://www.lcsc.com/product-detail/C2827654.html
+,,Total price,$20.76,
